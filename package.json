@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-prisma-sample",
+  "version": "1.0.0",
+  "repository": "https://github.com/KensukeTakahara/nextjs-prisma-sample.git",
+  "author": "Kensuke Takahara",
+  "license": "MIT",
+  "devDependencies": {
+    "@prisma/cli": "^2.12.1",
+    "@types/node": "^14.14.10",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "@prisma/client": "^2.12.1"
+  }
+}
